@@ -23,8 +23,6 @@ var store = {
     }
   ]
 }
-let xPost = 0
-let xComment = 0
 
 let app = express()
 app.use(bodyParser.json())
